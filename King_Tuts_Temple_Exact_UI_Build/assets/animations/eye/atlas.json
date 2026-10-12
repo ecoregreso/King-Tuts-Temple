@@ -1,0 +1,303 @@
+{
+  "version": 1,
+  "fps": 30,
+  "loop": "pingpong",
+  "frameCount": 35,
+  "frameSize": 384,
+  "sourceCropSize": 640,
+  "alignment": "per-frame-alpha-center; fixed 640px crop and 384px output with constant scale",
+  "pages": [
+    {
+      "image": "assets/animations/eye/page-0.png",
+      "width": 1940,
+      "height": 1940
+    },
+    {
+      "image": "assets/animations/eye/page-1.png",
+      "width": 1940,
+      "height": 776
+    }
+  ],
+  "frames": [
+    {
+      "page": 0,
+      "x": 2,
+      "y": 2,
+      "w": 384,
+      "h": 384,
+      "source": "anim_0005.png"
+    },
+    {
+      "page": 0,
+      "x": 390,
+      "y": 2,
+      "w": 384,
+      "h": 384,
+      "source": "anim_0006.png"
+    },
+    {
+      "page": 0,
+      "x": 778,
+      "y": 2,
+      "w": 384,
+      "h": 384,
+      "source": "anim_0007.png"
+    },
+    {
+      "page": 0,
+      "x": 1166,
+      "y": 2,
+      "w": 384,
+      "h": 384,
+      "source": "anim_0008.png"
+    },
+    {
+      "page": 0,
+      "x": 1554,
+      "y": 2,
+      "w": 384,
+      "h": 384,
+      "source": "anim_0009.png"
+    },
+    {
+      "page": 0,
+      "x": 2,
+      "y": 390,
+      "w": 384,
+      "h": 384,
+      "source": "anim_0010.png"
+    },
+    {
+      "page": 0,
+      "x": 390,
+      "y": 390,
+      "w": 384,
+      "h": 384,
+      "source": "anim_0011.png"
+    },
+    {
+      "page": 0,
+      "x": 778,
+      "y": 390,
+      "w": 384,
+      "h": 384,
+      "source": "anim_0012.png"
+    },
+    {
+      "page": 0,
+      "x": 1166,
+      "y": 390,
+      "w": 384,
+      "h": 384,
+      "source": "anim_0013.png"
+    },
+    {
+      "page": 0,
+      "x": 1554,
+      "y": 390,
+      "w": 384,
+      "h": 384,
+      "source": "anim_0014.png"
+    },
+    {
+      "page": 0,
+      "x": 2,
+      "y": 778,
+      "w": 384,
+      "h": 384,
+      "source": "anim_0015.png"
+    },
+    {
+      "page": 0,
+      "x": 390,
+      "y": 778,
+      "w": 384,
+      "h": 384,
+      "source": "anim_0016.png"
+    },
+    {
+      "page": 0,
+      "x": 778,
+      "y": 778,
+      "w": 384,
+      "h": 384,
+      "source": "anim_0017.png"
+    },
+    {
+      "page": 0,
+      "x": 1166,
+      "y": 778,
+      "w": 384,
+      "h": 384,
+      "source": "anim_0018.png"
+    },
+    {
+      "page": 0,
+      "x": 1554,
+      "y": 778,
+      "w": 384,
+      "h": 384,
+      "source": "anim_0019.png"
+    },
+    {
+      "page": 0,
+      "x": 2,
+      "y": 1166,
+      "w": 384,
+      "h": 384,
+      "source": "anim_0020.png"
+    },
+    {
+      "page": 0,
+      "x": 390,
+      "y": 1166,
+      "w": 384,
+      "h": 384,
+      "source": "anim_0021.png"
+    },
+    {
+      "page": 0,
+      "x": 778,
+      "y": 1166,
+      "w": 384,
+      "h": 384,
+      "source": "anim_0022.png"
+    },
+    {
+      "page": 0,
+      "x": 1166,
+      "y": 1166,
+      "w": 384,
+      "h": 384,
+      "source": "anim_0023.png"
+    },
+    {
+      "page": 0,
+      "x": 1554,
+      "y": 1166,
+      "w": 384,
+      "h": 384,
+      "source": "anim_0024.png"
+    },
+    {
+      "page": 0,
+      "x": 2,
+      "y": 1554,
+      "w": 384,
+      "h": 384,
+      "source": "anim_0025.png"
+    },
+    {
+      "page": 0,
+      "x": 390,
+      "y": 1554,
+      "w": 384,
+      "h": 384,
+      "source": "anim_0026.png"
+    },
+    {
+      "page": 0,
+      "x": 778,
+      "y": 1554,
+      "w": 384,
+      "h": 384,
+      "source": "anim_0027.png"
+    },
+    {
+      "page": 0,
+      "x": 1166,
+      "y": 1554,
+      "w": 384,
+      "h": 384,
+      "source": "anim_0028.png"
+    },
+    {
+      "page": 0,
+      "x": 1554,
+      "y": 1554,
+      "w": 384,
+      "h": 384,
+      "source": "anim_0029.png"
+    },
+    {
+      "page": 1,
+      "x": 2,
+      "y": 2,
+      "w": 384,
+      "h": 384,
+      "source": "anim_0030.png"
+    },
+    {
+      "page": 1,
+      "x": 390,
+      "y": 2,
+      "w": 384,
+      "h": 384,
+      "source": "anim_0031.png"
+    },
+    {
+      "page": 1,
+      "x": 778,
+      "y": 2,
+      "w": 384,
+      "h": 384,
+      "source": "anim_0032.png"
+    },
+    {
+      "page": 1,
+      "x": 1166,
+      "y": 2,
+      "w": 384,
+      "h": 384,
+      "source": "anim_0033.png"
+    },
+    {
+      "page": 1,
+      "x": 1554,
+      "y": 2,
+      "w": 384,
+      "h": 384,
+      "source": "anim_0034.png"
+    },
+    {
+      "page": 1,
+      "x": 2,
+      "y": 390,
+      "w": 384,
+      "h": 384,
+      "source": "anim_0035.png"
+    },
+    {
+      "page": 1,
+      "x": 390,
+      "y": 390,
+      "w": 384,
+      "h": 384,
+      "source": "anim_0036.png"
+    },
+    {
+      "page": 1,
+      "x": 778,
+      "y": 390,
+      "w": 384,
+      "h": 384,
+      "source": "anim_0037.png"
+    },
+    {
+      "page": 1,
+      "x": 1166,
+      "y": 390,
+      "w": 384,
+      "h": 384,
+      "source": "anim_0038.png"
+    },
+    {
+      "page": 1,
+      "x": 1554,
+      "y": 390,
+      "w": 384,
+      "h": 384,
+      "source": "anim_0039.png"
+    }
+  ]
+}

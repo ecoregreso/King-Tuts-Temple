@@ -1,0 +1,192 @@
+{
+  "assets/animations/beetle/page-0.png": {
+    "width": 1940,
+    "height": 1940,
+    "bytes": 4356726
+  },
+  "assets/animations/beetle/page-1.png": {
+    "width": 1940,
+    "height": 1940,
+    "bytes": 4414489
+  },
+  "assets/animations/beetle/page-2.png": {
+    "width": 1552,
+    "height": 388,
+    "bytes": 695390
+  },
+  "assets/animations/eye/page-0.png": {
+    "width": 1940,
+    "height": 1940,
+    "bytes": 4417393
+  },
+  "assets/animations/eye/page-1.png": {
+    "width": 1940,
+    "height": 776,
+    "bytes": 1731336
+  },
+  "assets/scenes/main.webp": {
+    "width": 1672,
+    "height": 941,
+    "bytes": 2499991
+  },
+  "assets/scenes/temple.webp": {
+    "width": 1672,
+    "height": 941,
+    "bytes": 2692699
+  },
+  "assets/spine/anubis.png": {
+    "width": 1413,
+    "height": 1540,
+    "bytes": 2136344
+  },
+  "assets/symbols/ankh.png": {
+    "width": 428,
+    "height": 427,
+    "bytes": 295190
+  },
+  "assets/symbols/anubis.png": {
+    "width": 396,
+    "height": 512,
+    "bytes": 251498
+  },
+  "assets/symbols/anubis_tile.png": {
+    "width": 305,
+    "height": 324,
+    "bytes": 250761
+  },
+  "assets/symbols/bonus.png": {
+    "width": 302,
+    "height": 301,
+    "bytes": 241783
+  },
+  "assets/symbols/cleopatra.png": {
+    "width": 301,
+    "height": 320,
+    "bytes": 250438
+  },
+  "assets/symbols/cobra.png": {
+    "width": 306,
+    "height": 309,
+    "bytes": 247379
+  },
+  "assets/symbols/eye.png": {
+    "width": 442,
+    "height": 434,
+    "bytes": 329190
+  },
+  "assets/symbols/eye_blue.png": {
+    "width": 298,
+    "height": 301,
+    "bytes": 234740
+  },
+  "assets/symbols/lotus.png": {
+    "width": 305,
+    "height": 296,
+    "bytes": 241055
+  },
+  "assets/symbols/mummy.png": {
+    "width": 296,
+    "height": 316,
+    "bytes": 261927
+  },
+  "assets/symbols/necklace.png": {
+    "width": 439,
+    "height": 410,
+    "bytes": 329146
+  },
+  "assets/symbols/pharaoh.png": {
+    "width": 298,
+    "height": 312,
+    "bytes": 252933
+  },
+  "assets/symbols/royal_ankh.png": {
+    "width": 292,
+    "height": 297,
+    "bytes": 226477
+  },
+  "assets/symbols/scarab_blue.png": {
+    "width": 298,
+    "height": 299,
+    "bytes": 240420
+  },
+  "assets/symbols/scatter.png": {
+    "width": 384,
+    "height": 384,
+    "bytes": 172414
+  },
+  "assets/symbols/treasure.png": {
+    "width": 299,
+    "height": 302,
+    "bytes": 245564
+  },
+  "assets/symbols/wild.png": {
+    "width": 447,
+    "height": 459,
+    "bytes": 284542
+  },
+  "assets/ui/auto.png": {
+    "width": 237,
+    "height": 111,
+    "bytes": 30448
+  },
+  "assets/ui/base.png": {
+    "width": 1851,
+    "height": 178,
+    "bytes": 49521
+  },
+  "assets/ui/base_glint.png": {
+    "width": 1864,
+    "height": 65,
+    "bytes": 35384
+  },
+  "assets/ui/frame_back.png": {
+    "width": 1536,
+    "height": 1024,
+    "bytes": 2680342
+  },
+  "assets/ui/frame_front.png": {
+    "width": 1536,
+    "height": 1024,
+    "bytes": 1616863
+  },
+  "assets/ui/logo.png": {
+    "width": 1506,
+    "height": 388,
+    "bytes": 760056
+  },
+  "assets/ui/max.png": {
+    "width": 237,
+    "height": 110,
+    "bytes": 29719
+  },
+  "assets/ui/spin.png": {
+    "width": 154,
+    "height": 163,
+    "bytes": 28346
+  },
+  "assets/ui/spin_glow.png": {
+    "width": 199,
+    "height": 187,
+    "bytes": 25859
+  },
+  "assets/ui/spin_icon.png": {
+    "width": 104,
+    "height": 104,
+    "bytes": 2773
+  },
+  "assets/wins/big_win.png": {
+    "width": 1599,
+    "height": 457,
+    "bytes": 603575
+  },
+  "assets/wins/big_win_decor.png": {
+    "width": 1024,
+    "height": 801,
+    "bytes": 846487
+  },
+  "assets/wins/digits.png": {
+    "width": 1024,
+    "height": 512,
+    "bytes": 508685
+  }
+}

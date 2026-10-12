@@ -1,0 +1,57 @@
+[
+  {
+    "source": "sprite_001.png",
+    "symbol": "pharaoh",
+    "name": "Pharaoh"
+  },
+  {
+    "source": "sprite_002.png",
+    "symbol": "cleopatra",
+    "name": "Cleopatra"
+  },
+  {
+    "source": "sprite_003.png",
+    "symbol": "anubis_tile",
+    "name": "Anubis \u2022 Guardian"
+  },
+  {
+    "source": "sprite_004.png",
+    "symbol": "mummy",
+    "name": "Royal Mummy"
+  },
+  {
+    "source": "sprite_005.png",
+    "symbol": "scarab_blue",
+    "name": "Azure Scarab"
+  },
+  {
+    "source": "sprite_006.png",
+    "symbol": "eye_blue",
+    "name": "Azure Eye"
+  },
+  {
+    "source": "sprite_007.png",
+    "symbol": "royal_ankh",
+    "name": "Royal Ankh"
+  },
+  {
+    "source": "sprite_008.png",
+    "symbol": "lotus",
+    "name": "Lotus of the Nile"
+  },
+  {
+    "source": "sprite_009.png",
+    "symbol": "cobra",
+    "name": "Royal Cobra"
+  },
+  {
+    "source": "sprite_010.png",
+    "symbol": "treasure",
+    "name": "Pharaoh\u2019s Treasure"
+  },
+  {
+    "source": "sprite_011.png",
+    "symbol": "bonus",
+    "name": "Treasure Temple Bonus"
+  }
+]

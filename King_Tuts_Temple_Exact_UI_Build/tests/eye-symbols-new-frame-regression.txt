@@ -1,0 +1,37 @@
+PASS 01 Exactly 35 original eye frames in source order
+PASS 02 Existing 54 scarab frames intact, chronological
+PASS 03 Both clips are infinite ping-pong loops
+PASS 04 eye atlas pages are present and exact dimensions
+PASS 05 eye reuses one constant frame rectangle
+PASS 06 eye atlas has transparent alpha
+PASS 07 eye atlas fits efficient GPU dimensions
+PASS 08 beetle atlas pages are present and exact dimensions
+PASS 09 beetle reuses one constant frame rectangle
+PASS 10 beetle atlas has transparent alpha
+PASS 11 beetle atlas fits efficient GPU dimensions
+PASS 12 All eye frames stabilized within 1.5px of the slot center
+PASS 13 35 original eye hashes and per-frame crop origins recorded
+PASS 14 All 11 SpriteForge symbols imported as PNG with no missing frames
+PASS 15 All new symbols are similarly sized (original aspect ratio kept)
+PASS 16 Standalone playable HTML is present
+PASS 17 Real Chromium game boots from offline HTML
+PASS 18 17 named paying/feature symbols registered
+PASS 19 All 35/54 frames are runtime textures shared by all symbol instances
+PASS 20 All eye/scarab frames have 384px bound and fixed centered sprite anchors
+PASS 21 Initial red-eye and green scarab symbols are already animating
+PASS 22 Landing test grid has zero line win and no free spins
+PASS 23 Zero-win spin finishes and pays no prize
+PASS 24 Every red eye loops, emerald scarab loops, and blue variants shimmer
+PASS 25 No hidden buffer row receives landing animations
+PASS 26 Red eye first frame corresponds exactly to the uploaded first frame
+PASS 27 Emerald scarab first frame corresponds exactly to the original first frame
+PASS 28 35-frame eye wraps smoothly and continues beyond its natural length
+PASS 29 54-frame scarab wraps smoothly and continues beyond its natural length
+PASS 30 Eye sprite never moves/resizes/changes pivot during 324 frames
+PASS 31 Scarab sprite never moves/resizes/changes pivot during 324 frames
+PASS 32 Next spin cancels every previous eye and beetle clip immediately
+PASS 33 Reel stops restart eye clips independently on repeated landings
+PASS 34 Reel stops restart scarab clips on repeated landings
+PASS 35 Every visible eye and beetle remains active until another spin
+PASS 36 Manual quick-stop keeps scene usable
+PASS 37 Reduced motion freezes all animation and shimmer

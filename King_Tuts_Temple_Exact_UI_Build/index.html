@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#231128"><title>KING TUTS TEMPLE — Royal Edition</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Ctext y='52' font-size='52'%3E♛%3C/text%3E%3C/svg%3E">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div id="game" aria-label="King Tuts Temple, a play-credit slot game">
+ <div id="backdrop" aria-hidden="true"><img id="dayScene" src="assets/scenes/temple.webp" alt=""><img id="templeScene" src="assets/scenes/main.webp" alt=""><div class="scene-vignette"></div></div>
+ <div id="canvasHost" aria-hidden="true"></div>
+ <div class="topbar" aria-hidden="true"><span class="edition">KING TUTS TEMPLE · ROYAL EDITION</span></div>
+ <div id="featureBadge" hidden><span>FREE SPINS</span><strong id="freeRemaining">8</strong><small id="featureRunningWin">TEMPLE WIN 0</small></div>
+ <div id="worldUI">
+  <div id="resultBanner"><span id="resultText">THE TREASURES OF KING TUT AWAIT</span><strong id="smallWin"></strong></div>
+  <section id="hud" aria-label="King Tuts Temple gold and sapphire game controls">
+   <img class="hud-reference-rail" src="assets/ui/kingtuts_control_rail.png" alt="">
+   <button id="settingsBtn" class="ref-control ref-settings" aria-label="Settings" title="Settings"><img src="assets/ui/control_settings.png" alt=""></button>
+   <button id="soundBtn" class="ref-control ref-sound" aria-label="Mute sound" title="Sound (M)"><img src="assets/ui/control_sound.png" alt=""></button>
+   <div class="field balance-field" aria-live="polite"><span>BALANCE</span><strong id="balanceValue">10,000.00</strong></div>
+   <button id="levelDown" class="ref-control ref-bet-minus" aria-label="Decrease bet level" title="Decrease bet"><img src="assets/ui/control_bet_minus.png" alt=""></button>
+   <div class="field bet-field"><span>BET</span><strong id="betValue">0.40</strong><span id="levelValue" class="visually-hidden">1</span></div>
+   <button id="levelUp" class="ref-control ref-bet-plus" aria-label="Increase bet level" title="Increase bet"><img src="assets/ui/control_bet_plus.png" alt=""></button>
+   <button id="spinBtn" class="ref-control ref-spin" aria-label="Spin the reels" disabled><img id="spinIcon" src="assets/ui/control_spin.png" alt=""><span id="spinStop" hidden>■</span></button>
+   <button id="maxBtn" class="ref-control ref-max-bet" aria-label="Set maximum bet level"><img src="assets/ui/control_max_bet.png" alt=""></button>
+   <button id="autoBtn" class="ref-control ref-auto" aria-label="Autoplay options"><img src="assets/ui/control_auto.png" alt=""><span id="autoLabel" class="visually-hidden">AUTO PLAY</span></button>
+   <button id="turboBtn" class="ref-control ref-turbo" aria-label="Turbo mode" aria-pressed="false"><img src="assets/ui/control_turbo.png" alt=""></button>
+  </section>
+  <div id="hint"><span id="hintText">3 SCARAB / BONUS SYMBOLS UNLOCK THE TREASURE TEMPLE</span><span class="keyboard-hint">SPACE TO SPIN</span></div>
+ </div>
+ <footer><span>PLAY CREDITS ONLY · NO CASH VALUE</span><div class="footer-buttons"><button id="infoBtn" aria-label="Paytable and game rules">PAYTABLE</button><button id="fullscreenBtn" aria-label="Fullscreen">FULLSCREEN</button><button id="showcaseBtn">✦ FEATURE SHOWCASE</button></div></footer>
+ <div id="showcaseBar" hidden><span>SHOWCASE · STAGED RESULTS · YOUR BALANCE IS NOT SAVED</span><button id="exitShowcase">EXIT</button></div>
+ <div id="loading" role="status"><img src="assets/ui/logo.png" alt="King Tuts Temple"><p id="loadingText">UNSEALING THE TEMPLE…</p><div class="loading-track"><i id="loadingProgress"></i></div><small>KING TUTS TEMPLE · THE KINGDOM AWAKENS</small></div>
+ <div id="errorPanel" hidden role="alert"><h2>The game could not start</h2><pre id="errorText"></pre><button onclick="location.reload()">RETRY</button></div>
+ <button id="skipWin" hidden>CLICK OR PRESS SPACE TO SKIP</button>
+ <div id="featureIntro" class="feature-cover" hidden>
+  <div class="feature-card"><p class="eyebrow">THE SCARABS AND BONUS HAVE OPENED THE GATES</p><h1>THE TREASURE<br><em>TEMPLE</em></h1><div class="scarab-row"><img src="assets/symbols/scatter.png" alt="Emerald scarab"><img src="assets/symbols/bonus.png" alt="Treasure Temple bonus"><img src="assets/symbols/scatter.png" alt="Emerald scarab"></div><strong id="awardedSpins">8</strong><h2>FREE SPINS</h2><p>Anubis awakens.<br>Every guardian fills its entire reel with wilds.</p><button id="enterTemple" class="gold-button">ENTER THE TEMPLE <span>→</span></button><small>FIRST FREE SPIN: GUARANTEED ANUBIS REEL</small></div>
+ </div>
+ <div id="featureOutro" class="feature-cover" hidden>
+  <div class="feature-card"><p class="eyebrow">THE GODS HAVE REWARDED YOU</p><h1>TEMPLE<br><em>TREASURES</em></h1><img class="outro-crown" src="assets/wins/big_win_decor.png" alt=""><p id="summarySpins">8 FREE SPINS PLAYED</p><strong id="summaryAmount">0</strong><h2>PLAY COINS WON</h2><button id="leaveTemple" class="gold-button">RETURN TO THE TEMPLE <span>→</span></button></div>
+ </div>
+</div>
+<dialog id="infoDialog"><div class="dialog-top"><span>THE ROYAL ARCHIVES</span><button data-close aria-label="Close paytable">×</button></div><h2>Paytable &amp; rules</h2><p class="dialog-intro">20 fixed paylines. Three or more matching symbols, left to right, starting on the first reel. The highest win on each line is paid.</p><div id="paytable"></div><div class="rule-grid"><article><h3>THE CROWN WILD</h3><p>Substitutes for all paying symbols, never for scarabs or BONUS symbols. A run of wilds pays its own prize when that is the highest award.</p></article><article><h3>THE TREASURE TEMPLE</h3><p>3 / 4 / 5+ emerald scarabs and BONUS symbols combined anywhere pay 2× / 5× / 20× the total bet and award 8 / 12 / 16 free spins. The azure beetle is a separate paying symbol, not a scatter.</p></article><article><h3>ANUBIS AWAKENS</h3><p>During free spins, every reel containing Anubis (the live symbol or the guardian tile) becomes a full wild reel for that spin. The first free spin guarantees one Anubis reel. Wild expansion replaces all three positions, including any scarabs or BONUS tiles on that reel.</p></article><article><h3>YOUR FREE SPINS</h3><p>3+ remaining scarab/BONUS symbols retrigger 3 free spins, up to 50 total spins in one feature. The starting level and coin value stay locked until the feature ends.</p></article></div><p class="fine-print">Displayed line prizes are for level 1. Multiply by the selected level. The BET display shows play credits staked: 20 × level × coin value. Coin value and bet level can be adjusted from the controls and Settings. BALANCE shows the same play-credit units. All balances and prizes are fictional. This is an unregulated demo, not a certified real-money product. No certified RTP is claimed.</p><button class="gold-button" data-close>BACK TO THE GAME</button></dialog>
+<dialog id="settingsDialog"><div class="dialog-top"><span>MAKE IT YOURS</span><button data-close aria-label="Close settings">×</button></div><h2>Temple settings</h2><label class="setting"><span>Sound effects<small>Original synthesized reel, treasure and temple cues.</small></span><input id="soundSetting" type="checkbox"></label><label class="setting"><span>Volume</span><input id="volumeSetting" type="range" min="0" max="100" value="45"></label><label class="setting"><span>Reduced motion<small>Fewer particles, no camera shake, quicker transitions.</small></span><input id="motionSetting" type="checkbox"></label><label class="setting"><span>Effects quality</span><select id="qualitySetting"><option value="high">High</option><option value="low">Low</option></select></label><div class="setting coin-setting"><span>Coin value<small>Choose the denomination used for each play credit.</small></span><div class="settings-denom"><button id="coinDown" aria-label="Decrease coin value">−</button><strong id="coinValue">0.02</strong><button id="coinUp" aria-label="Increase coin value">+</button></div></div><p class="fine-print">SPACE: spin / stop / skip · T: turbo · M: sound · F: fullscreen · I: rules. Your demo balance and free-spin progress save on this device where local storage is available.</p><button id="resetBtn" class="quiet-button">RESET DEMO COINS</button><p id="resetNotice" class="fine-print" hidden>Press RESET once more within 4 seconds to confirm.</p><button class="gold-button" data-close>RETURN TO KEMET</button></dialog>
+<dialog id="autoDialog"><div class="dialog-top"><span>YOU SET THE PACE</span><button data-close aria-label="Close autoplay">×</button></div><h2>Autoplay</h2><p>Choose a limited number of paid spins. Autoplay stops when the temple feature is awarded, when your coins run out, or when you press STOP AUTO.</p><div class="auto-choices"><button class="gold-button" data-auto="10">10 SPINS</button><button class="gold-button" data-auto="25">25 SPINS</button><button class="gold-button" data-auto="50">50 SPINS</button></div><p class="fine-print">Free spins begin after you press ENTER THE TEMPLE and run through the feature automatically.</p></dialog>
+<script>
+window.kemetFailure=function(error){var message=error&&error.stack||String(error);console.error('[Kemet]',message);document.getElementById('loading').hidden=true;document.getElementById('errorText').textContent=message;document.getElementById('errorPanel').hidden=false;};
+window.addEventListener('error',function(e){if(e.error)window.kemetFailure(e.error);});window.addEventListener('unhandledrejection',function(e){window.kemetFailure(e.reason);});
+</script>
+<script src="vendor/pixi-gsap.js"></script><script src="atlas.js"></script><script src="beetle-data.js"></script><script src="eye-data.js"></script><script src="math.js"></script><script src="spine-data.js"></script>
+<script src="spine-character.js"></script>
+<script src="game.js"></script>
+</body></html>

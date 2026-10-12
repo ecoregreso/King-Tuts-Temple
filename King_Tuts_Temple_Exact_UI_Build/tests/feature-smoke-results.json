@@ -1,0 +1,17 @@
+{
+  "checks": [
+    "Game boots offline with all new symbols",
+    "Mixed emerald scarab / BONUS reel pays and awards free spins",
+    "Temple entrance opens with the new BONUS icon",
+    "All eight feature spins reach the summary",
+    "Anubis skeletal guardian expansion still works in bonus feature",
+    "Game returns from temple with unlocked normal controls",
+    "No JavaScript/game errors in feature",
+    "No console warnings or external HTTP requests"
+  ],
+  "count": 8,
+  "errors": [],
+  "warnings": [],
+  "network": [],
+  "backend": "headless Chromium Canvas2D, embedded game offline"
+}

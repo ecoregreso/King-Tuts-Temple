@@ -1,0 +1,180 @@
+{
+  "baseline": "Previous Crowns-of-Kemet-Spine.zip supplied in this conversation",
+  "files": [
+    {
+      "path": "math.js",
+      "sha256": "c998222193213e4c95ddbeddd24c820c2a078f12d65bdfc7312da834c965610e",
+      "unchanged": true
+    },
+    {
+      "path": "vendor/pixi-gsap.js",
+      "sha256": "4f63ed133c9cbb5c6a8c761a37ecd08cf8ebb517a33080d7cf85e5dbe1e0d51d",
+      "unchanged": true
+    },
+    {
+      "path": "spine-data.js",
+      "sha256": "a2bedbc83f09f1ea229ed28c85c9115c280dbbc9eb5ce54ffb78ccadfa258c89",
+      "unchanged": true
+    },
+    {
+      "path": "atlas.js",
+      "sha256": "c26dfa21f4bf5aedd98512e875d22e2699254aa1ab2f85beafa07c04c7e32031",
+      "unchanged": true
+    },
+    {
+      "path": "styles.css",
+      "sha256": "670cbc2bd92ee03c751adadb56117f3a882b441d7ee680db9c8dc3a8026e44dc",
+      "unchanged": true
+    },
+    {
+      "path": "serve.py",
+      "sha256": "7cd67c6089eb9dc71b5de4499b29b9b5e74b53f39c08a4189b0ced3754c8b639",
+      "unchanged": true
+    },
+    {
+      "path": "run_game.sh",
+      "sha256": "b48d18b52aaa2d479da68bb83912e6babaf78e23b673f38d427e2712c569da6c",
+      "unchanged": true
+    },
+    {
+      "path": "run_game.bat",
+      "sha256": "7de4ddee9e77fb3aa508916683641053b5dc9b08ed1bebfa94b7177f0ed4033d",
+      "unchanged": true
+    },
+    {
+      "path": "assets/manifest.json",
+      "sha256": "766192f8b5deb24e4027b39e77a23442d73f462e09df055b4334c08cdb41ff4a",
+      "unchanged": true
+    },
+    {
+      "path": "assets/ui/logo.png",
+      "sha256": "475e6e234d381fcca74a6c703c06e2d9288ddee102a9bc25a84ed01a7fbce9ef",
+      "unchanged": true
+    },
+    {
+      "path": "assets/ui/spin_glow.png",
+      "sha256": "72324e30015fd6bd83c51b0d75cea22772afab0933b3d3882a779310cd5af3b1",
+      "unchanged": true
+    },
+    {
+      "path": "assets/ui/base.png",
+      "sha256": "70d36cb919a3b37ad9386382a1c117f885ede0fb5a711f2cbc6c44a1d6c7f4ab",
+      "unchanged": true
+    },
+    {
+      "path": "assets/ui/auto.png",
+      "sha256": "1991b75d90aa049c854b5e29a44ec553620100feef6692441c9f5f37065302e4",
+      "unchanged": true
+    },
+    {
+      "path": "assets/ui/spin.png",
+      "sha256": "73124bd199d83ca00a0dd3da11591ec31186b6b0206c2dc3af03b4339920929b",
+      "unchanged": true
+    },
+    {
+      "path": "assets/ui/frame.png",
+      "sha256": "e7f7e855d0158375747600343c7d688a290bb52e9de28f666e4c6071c88e5960",
+      "unchanged": true
+    },
+    {
+      "path": "assets/ui/base_glint.png",
+      "sha256": "1349cfa9f5ae96c22d053e6103577d64c4567abe438ced526d0605d770cf8e28",
+      "unchanged": true
+    },
+    {
+      "path": "assets/ui/spin_icon.png",
+      "sha256": "c55c251c9855057124060189108770b48f6b62f73d692df4b1a2ee8889f98ccd",
+      "unchanged": true
+    },
+    {
+      "path": "assets/ui/max.png",
+      "sha256": "d412b739ae404e98d454cecd36cba3c49bb7d5a6ad4d4ed0e59454dbc2a13202",
+      "unchanged": true
+    },
+    {
+      "path": "assets/characters/anubis.png",
+      "sha256": "d40d33650ce3526f75a48a6495145042e16c82f002b914cc1375477f95276ed0",
+      "unchanged": true
+    },
+    {
+      "path": "assets/wins/digits.json",
+      "sha256": "e193736aa11e8994558c0575b15a268b82bd809aede5e1d7167b51dfc573df16",
+      "unchanged": true
+    },
+    {
+      "path": "assets/wins/digits.png",
+      "sha256": "3bf027534d841ea1b0d90d99c74a6ff6859eb2971a181c387a430f8dbe6bea9b",
+      "unchanged": true
+    },
+    {
+      "path": "assets/wins/big_win_decor.png",
+      "sha256": "b8d432deda906423f36589de6d90b95129edf832cad05a449e71cfe08861eafe",
+      "unchanged": true
+    },
+    {
+      "path": "assets/wins/big_win.png",
+      "sha256": "022879ad89aaf938c849674da071cf7887464504fa9eaf742cbf8aec642d073f",
+      "unchanged": true
+    },
+    {
+      "path": "assets/symbols/necklace.png",
+      "sha256": "294ef9ad7f2cc4ad24f70700e71fe1a59537d77b7da447f3c55136e72dee2c9b",
+      "unchanged": true
+    },
+    {
+      "path": "assets/symbols/anubis.png",
+      "sha256": "a8b529ba2e9aa22df986a811a8dcd8f74548514357bb8275b4c9eb3e2bfb0de8",
+      "unchanged": true
+    },
+    {
+      "path": "assets/symbols/scatter.png",
+      "sha256": "2927356b50c498a24c7dbdd2c2abc024d93216a075ada5dc2c19454f558481c1",
+      "unchanged": true
+    },
+    {
+      "path": "assets/symbols/ankh.png",
+      "sha256": "d46d1188612625319f4a3777bd107e1efc0101a37f1a07d431c78b82e502163d",
+      "unchanged": true
+    },
+    {
+      "path": "assets/symbols/eye.png",
+      "sha256": "7096239013bb59063f6d85690a2aa9341d0eb597f6cb4aaec8d4834f83d321bc",
+      "unchanged": true
+    },
+    {
+      "path": "assets/symbols/wild.png",
+      "sha256": "98fe1705dbdb55d421f651224559fde9339b364a07621d9f40c6d7dc58456721",
+      "unchanged": true
+    },
+    {
+      "path": "assets/spine/anubis.png",
+      "sha256": "f48f1e84f4c2f96a7b54669e00743ea6e35d5b797dc4a9f7a89fc41158779193",
+      "unchanged": true
+    },
+    {
+      "path": "assets/scenes/main.webp",
+      "sha256": "036d9715a82c494be99b12a45a2594854ed3ea4d0487eb45ea7bb7b17c3f7e58",
+      "unchanged": true
+    },
+    {
+      "path": "assets/scenes/temple.webp",
+      "sha256": "53aec65acaaf8ac05d9c8502ac3fb9a67d8211235dc84b0b80274b23344e42fb",
+      "unchanged": true
+    },
+    {
+      "path": "source-art/anubis/character_anubis.png",
+      "sha256": "f48f1e84f4c2f96a7b54669e00743ea6e35d5b797dc4a9f7a89fc41158779193",
+      "unchanged": true
+    },
+    {
+      "path": "source-art/anubis/character_anubis.atlas",
+      "sha256": "63b7a4e3d96b29a31d42611139737028b66e2c2d4f456eae3a95f54cecad9a70",
+      "unchanged": true
+    },
+    {
+      "path": "source-art/anubis/character_anubis.json",
+      "sha256": "5399b6b833ccde9b5d4de383eb506dc68c030cd680411639aa381f802e2dd4e5",
+      "unchanged": true
+    }
+  ]
+}

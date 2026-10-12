@@ -1,0 +1,27 @@
+{
+  "controls": {
+    "before": {
+      "level": 1,
+      "denom": 2,
+      "turbo": "false",
+      "sound": "true"
+    },
+    "after": {
+      "level": 2,
+      "denom": 2,
+      "turbo": "true",
+      "sound": "false"
+    },
+    "autoOpened": true,
+    "settingsOpened": true,
+    "denomAfter": 5
+  },
+  "spin": {
+    "done": true,
+    "error": "",
+    "spins": 1,
+    "phase": "IDLE"
+  },
+  "errors": [],
+  "warnings": []
+}

@@ -1,0 +1,43 @@
+PASS Both weighted distributions total 100
+PASS 20 unique, valid five-reel paylines
+PASS All symbol IDs are unique
+PASS Reject malformed grids and unknown symbols
+PASS Reject unsupported bet level
+PASS No accidental diagonal win across distinct first columns
+PASS Five full ankh columns pay 20 × 25
+PASS Five full crown columns pay 20 × 500, only once per line
+PASS Wild substitution extends royal collar wins
+PASS Three matching columns pay three, not five
+PASS Four matching columns pay four
+PASS A win must begin on the leftmost reel
+PASS Level multiplies payouts linearly
+PASS Scatters do not substitute or pay a line
+PASS Three scarabs award 8 spins and 2× total bet
+PASS Four scarabs award 12 spins and 5×
+PASS Five scarabs award 16 spins and 20×
+PASS Fewer than three scarabs award no feature
+PASS A paid spin debits exactly once, in integer units
+PASS Winning payout is credited atomically
+PASS Insufficient balance causes no partial mutation
+PASS Changing coin value does not change underlying balance
+PASS Free spins do not debit and lock triggering bet
+PASS First free spin guarantees an expanded guardian
+PASS Base-game Anubis does not expand
+PASS Guardian expansion replaces scarabs in its column
+PASS Three remaining scarabs retrigger three free spins
+PASS A feature is capped at 50 total free spins
+PASS A feature ends and reports the exact accumulated win
+PASS Save/restore preserves free-spin progress and locked bet
+PASS Snapshots do not alias live session state
+PASS Malformed saved state resets instead of blocking startup
+PASS Malformed saved feature is not resumed
+PASS Result evaluation never mutates the input grid
+PASS All 11 imported symbols have distinct IDs and paytable entries
+PASS BONUS icon and animated scarab combine for temple award
+PASS BONUS never becomes a paying symbol and WILD does not substitute for bonus
+PASS Anubis guardian tile triggers expansion only during free spins
+PASS Seeded test RNG is deterministic
+PASS Crypto integer RNG stays within bounds
+PASS 10000 paid-spin cycles maintain balance accounting
+
+41/41 tests passed.

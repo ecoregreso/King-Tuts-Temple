@@ -1,0 +1,916 @@
+{
+  "sourceArchive": "eye_animation.zip",
+  "sourceArchiveSha256": "e09659ee46ca3741f47048abd03c59f311451bc1b910b91b9c63ef7a7a338150",
+  "sourceFrames": [
+    {
+      "source": "anim_0005.png",
+      "originalOpaqueBounds": [
+        198,
+        305,
+        752,
+        854
+      ],
+      "originalCenter": [
+        475.0,
+        579.5
+      ],
+      "sourceCrop": [
+        155,
+        260,
+        795,
+        900
+      ],
+      "repackedAlphaBounds": [
+        23,
+        24,
+        361,
+        358
+      ],
+      "sha256": "5c758b20e7eb6f77be654d65896f5b8c1143a5d228a6448248c304287693ef92"
+    },
+    {
+      "source": "anim_0006.png",
+      "originalOpaqueBounds": [
+        198,
+        304,
+        751,
+        852
+      ],
+      "originalCenter": [
+        474.5,
+        578.0
+      ],
+      "sourceCrop": [
+        154,
+        258,
+        794,
+        898
+      ],
+      "repackedAlphaBounds": [
+        24,
+        25,
+        361,
+        359
+      ],
+      "sha256": "53c67ee262dc81f0b5b84f640a824c23d7f7b28246b1f49c0f5822275c03bc66"
+    },
+    {
+      "source": "anim_0007.png",
+      "originalOpaqueBounds": [
+        197,
+        303,
+        751,
+        851
+      ],
+      "originalCenter": [
+        474.0,
+        577.0
+      ],
+      "sourceCrop": [
+        154,
+        257,
+        794,
+        897
+      ],
+      "repackedAlphaBounds": [
+        23,
+        25,
+        361,
+        359
+      ],
+      "sha256": "caac329400128edb1b09020cf51a9d828ff34bafee8b0b5297816d5bf442405a"
+    },
+    {
+      "source": "anim_0008.png",
+      "originalOpaqueBounds": [
+        198,
+        300,
+        751,
+        849
+      ],
+      "originalCenter": [
+        474.5,
+        574.5
+      ],
+      "sourceCrop": [
+        154,
+        254,
+        794,
+        894
+      ],
+      "repackedAlphaBounds": [
+        24,
+        25,
+        361,
+        360
+      ],
+      "sha256": "81669badb3a30452071977896c8f0fd608f70f61e21d0b4c78aa7076d0666304"
+    },
+    {
+      "source": "anim_0009.png",
+      "originalOpaqueBounds": [
+        209,
+        288,
+        762,
+        837
+      ],
+      "originalCenter": [
+        485.5,
+        562.5
+      ],
+      "sourceCrop": [
+        166,
+        242,
+        806,
+        882
+      ],
+      "repackedAlphaBounds": [
+        23,
+        25,
+        360,
+        360
+      ],
+      "sha256": "547bc3acec5e0b092bbd859dedc20e9eab6ef8f01def74376f68b4984680c137"
+    },
+    {
+      "source": "anim_0010.png",
+      "originalOpaqueBounds": [
+        231,
+        258,
+        784,
+        808
+      ],
+      "originalCenter": [
+        507.5,
+        533.0
+      ],
+      "sourceCrop": [
+        188,
+        213,
+        828,
+        853
+      ],
+      "repackedAlphaBounds": [
+        23,
+        25,
+        360,
+        360
+      ],
+      "sha256": "6943ecfdb910b761175e5a950758b9432a5d2aac7d5bfb7080e0966501f14278"
+    },
+    {
+      "source": "anim_0011.png",
+      "originalOpaqueBounds": [
+        248,
+        240,
+        800,
+        788
+      ],
+      "originalCenter": [
+        524.0,
+        514.0
+      ],
+      "sourceCrop": [
+        204,
+        194,
+        844,
+        834
+      ],
+      "repackedAlphaBounds": [
+        24,
+        25,
+        360,
+        359
+      ],
+      "sha256": "5da317ba90cb3c479f4b8cbeaa77d6d066fefafc8cf807abaf2896b1448095a4"
+    },
+    {
+      "source": "anim_0012.png",
+      "originalOpaqueBounds": [
+        254,
+        226,
+        806,
+        776
+      ],
+      "originalCenter": [
+        530.0,
+        501.0
+      ],
+      "sourceCrop": [
+        210,
+        181,
+        850,
+        821
+      ],
+      "repackedAlphaBounds": [
+        24,
+        24,
+        360,
+        360
+      ],
+      "sha256": "8bece717429b121a6028154390cc45e953979582c155d4e187e79418a5427306"
+    },
+    {
+      "source": "anim_0013.png",
+      "originalOpaqueBounds": [
+        254,
+        228,
+        805,
+        777
+      ],
+      "originalCenter": [
+        529.5,
+        502.5
+      ],
+      "sourceCrop": [
+        210,
+        182,
+        850,
+        822
+      ],
+      "repackedAlphaBounds": [
+        24,
+        25,
+        360,
+        360
+      ],
+      "sha256": "ea1e481ce58037309994a3a680abbddea1f8d027687cbd90a169de8df787407c"
+    },
+    {
+      "source": "anim_0014.png",
+      "originalOpaqueBounds": [
+        254,
+        229,
+        805,
+        778
+      ],
+      "originalCenter": [
+        529.5,
+        503.5
+      ],
+      "sourceCrop": [
+        210,
+        184,
+        850,
+        824
+      ],
+      "repackedAlphaBounds": [
+        24,
+        24,
+        359,
+        359
+      ],
+      "sha256": "3b425106681b940e25e7ee1f64af6b6b6c563a60ab88b6b784cfbdc956c2ce04"
+    },
+    {
+      "source": "anim_0015.png",
+      "originalOpaqueBounds": [
+        247,
+        230,
+        798,
+        779
+      ],
+      "originalCenter": [
+        522.5,
+        504.5
+      ],
+      "sourceCrop": [
+        202,
+        184,
+        842,
+        824
+      ],
+      "repackedAlphaBounds": [
+        24,
+        25,
+        360,
+        360
+      ],
+      "sha256": "2b772387d505bda9bde98ba28b1adb55bd51c5c8b28d16e13520b6696d51b6e3"
+    },
+    {
+      "source": "anim_0016.png",
+      "originalOpaqueBounds": [
+        236,
+        232,
+        788,
+        781
+      ],
+      "originalCenter": [
+        512.0,
+        506.5
+      ],
+      "sourceCrop": [
+        192,
+        186,
+        832,
+        826
+      ],
+      "repackedAlphaBounds": [
+        24,
+        25,
+        360,
+        360
+      ],
+      "sha256": "9e463306b62c934db8a75e1a0887a2616b0f2fc9c39c189fceff00afced31aaa"
+    },
+    {
+      "source": "anim_0017.png",
+      "originalOpaqueBounds": [
+        222,
+        235,
+        774,
+        784
+      ],
+      "originalCenter": [
+        498.0,
+        509.5
+      ],
+      "sourceCrop": [
+        178,
+        190,
+        818,
+        830
+      ],
+      "repackedAlphaBounds": [
+        24,
+        24,
+        360,
+        359
+      ],
+      "sha256": "5f3dab7064d13cf7c42acafd11e8426b44b37c1de5be2412e15cd6e338ebcc9e"
+    },
+    {
+      "source": "anim_0018.png",
+      "originalOpaqueBounds": [
+        222,
+        235,
+        776,
+        784
+      ],
+      "originalCenter": [
+        499.0,
+        509.5
+      ],
+      "sourceCrop": [
+        179,
+        190,
+        819,
+        830
+      ],
+      "repackedAlphaBounds": [
+        23,
+        24,
+        361,
+        359
+      ],
+      "sha256": "f50765a684286a2918d0b62ee7684db8444a292ae73a1dbbd111541ea7329ca8"
+    },
+    {
+      "source": "anim_0019.png",
+      "originalOpaqueBounds": [
+        222,
+        235,
+        778,
+        784
+      ],
+      "originalCenter": [
+        500.0,
+        509.5
+      ],
+      "sourceCrop": [
+        180,
+        190,
+        820,
+        830
+      ],
+      "repackedAlphaBounds": [
+        23,
+        24,
+        361,
+        359
+      ],
+      "sha256": "94d7b54dbce0c3935bacdee8dc3a42d0bc41fad79d2254e33335d057065e5a79"
+    },
+    {
+      "source": "anim_0020.png",
+      "originalOpaqueBounds": [
+        222,
+        235,
+        780,
+        784
+      ],
+      "originalCenter": [
+        501.0,
+        509.5
+      ],
+      "sourceCrop": [
+        181,
+        190,
+        821,
+        830
+      ],
+      "repackedAlphaBounds": [
+        22,
+        24,
+        362,
+        359
+      ],
+      "sha256": "ca02d88a05ea3faec767e8f96633b4d1454ab22576f31e214e2eee968a7a1fba"
+    },
+    {
+      "source": "anim_0021.png",
+      "originalOpaqueBounds": [
+        222,
+        235,
+        782,
+        784
+      ],
+      "originalCenter": [
+        502.0,
+        509.5
+      ],
+      "sourceCrop": [
+        182,
+        190,
+        822,
+        830
+      ],
+      "repackedAlphaBounds": [
+        21,
+        24,
+        362,
+        359
+      ],
+      "sha256": "74d2e1be09d034979891bd78e159214be26411d0bf7c48affef906ac2888ee3d"
+    },
+    {
+      "source": "anim_0022.png",
+      "originalOpaqueBounds": [
+        222,
+        235,
+        782,
+        784
+      ],
+      "originalCenter": [
+        502.0,
+        509.5
+      ],
+      "sourceCrop": [
+        182,
+        190,
+        822,
+        830
+      ],
+      "repackedAlphaBounds": [
+        21,
+        24,
+        363,
+        359
+      ],
+      "sha256": "753b6c7a33c9cd4081a66fa0249d8ec0c576340607e8a49fa21a00089d1ea5ea"
+    },
+    {
+      "source": "anim_0023.png",
+      "originalOpaqueBounds": [
+        222,
+        235,
+        782,
+        784
+      ],
+      "originalCenter": [
+        502.0,
+        509.5
+      ],
+      "sourceCrop": [
+        182,
+        190,
+        822,
+        830
+      ],
+      "repackedAlphaBounds": [
+        21,
+        24,
+        363,
+        359
+      ],
+      "sha256": "7e88c5dc5cbd13a39e895e91761355ffff33d85273ee5bb69f6800014e8b9289"
+    },
+    {
+      "source": "anim_0024.png",
+      "originalOpaqueBounds": [
+        222,
+        235,
+        782,
+        784
+      ],
+      "originalCenter": [
+        502.0,
+        509.5
+      ],
+      "sourceCrop": [
+        182,
+        190,
+        822,
+        830
+      ],
+      "repackedAlphaBounds": [
+        21,
+        24,
+        363,
+        359
+      ],
+      "sha256": "139128245d364bef320c0c8a716543fcb48669de752df0056a37d23cfbc64b47"
+    },
+    {
+      "source": "anim_0025.png",
+      "originalOpaqueBounds": [
+        222,
+        235,
+        782,
+        784
+      ],
+      "originalCenter": [
+        502.0,
+        509.5
+      ],
+      "sourceCrop": [
+        182,
+        190,
+        822,
+        830
+      ],
+      "repackedAlphaBounds": [
+        21,
+        24,
+        363,
+        359
+      ],
+      "sha256": "d612058e95ff8aaadd2eece770102afb4999df974a747641e9282c834a7fb232"
+    },
+    {
+      "source": "anim_0026.png",
+      "originalOpaqueBounds": [
+        222,
+        235,
+        782,
+        784
+      ],
+      "originalCenter": [
+        502.0,
+        509.5
+      ],
+      "sourceCrop": [
+        182,
+        190,
+        822,
+        830
+      ],
+      "repackedAlphaBounds": [
+        21,
+        24,
+        363,
+        359
+      ],
+      "sha256": "299e37a68c9b3512b130be78c2703002605bd84c42612873c6754c132f5bcb06"
+    },
+    {
+      "source": "anim_0027.png",
+      "originalOpaqueBounds": [
+        222,
+        235,
+        782,
+        784
+      ],
+      "originalCenter": [
+        502.0,
+        509.5
+      ],
+      "sourceCrop": [
+        182,
+        190,
+        822,
+        830
+      ],
+      "repackedAlphaBounds": [
+        21,
+        24,
+        363,
+        359
+      ],
+      "sha256": "0c7e9396972e2e87b259b7db6cade1e884d8d506941e9d3c9b577ae764f5232e"
+    },
+    {
+      "source": "anim_0028.png",
+      "originalOpaqueBounds": [
+        222,
+        235,
+        782,
+        784
+      ],
+      "originalCenter": [
+        502.0,
+        509.5
+      ],
+      "sourceCrop": [
+        182,
+        190,
+        822,
+        830
+      ],
+      "repackedAlphaBounds": [
+        21,
+        24,
+        363,
+        359
+      ],
+      "sha256": "6f2562b52d8030d4ac86712c4bcc2f3a7bbdf00cc1e6f002bad528075f1a05a1"
+    },
+    {
+      "source": "anim_0029.png",
+      "originalOpaqueBounds": [
+        222,
+        235,
+        782,
+        784
+      ],
+      "originalCenter": [
+        502.0,
+        509.5
+      ],
+      "sourceCrop": [
+        182,
+        190,
+        822,
+        830
+      ],
+      "repackedAlphaBounds": [
+        21,
+        24,
+        363,
+        359
+      ],
+      "sha256": "0faf0a26ac0e6c6202e11d625d7a557b0f4e2be79c2ca57923253a6898895c6b"
+    },
+    {
+      "source": "anim_0030.png",
+      "originalOpaqueBounds": [
+        222,
+        235,
+        782,
+        784
+      ],
+      "originalCenter": [
+        502.0,
+        509.5
+      ],
+      "sourceCrop": [
+        182,
+        190,
+        822,
+        830
+      ],
+      "repackedAlphaBounds": [
+        21,
+        24,
+        363,
+        359
+      ],
+      "sha256": "91a9a72bc663e90de7e85488713fcd88b6f17ec97fccefa7e12eb7f42f32ad71"
+    },
+    {
+      "source": "anim_0031.png",
+      "originalOpaqueBounds": [
+        222,
+        235,
+        782,
+        784
+      ],
+      "originalCenter": [
+        502.0,
+        509.5
+      ],
+      "sourceCrop": [
+        182,
+        190,
+        822,
+        830
+      ],
+      "repackedAlphaBounds": [
+        21,
+        24,
+        363,
+        359
+      ],
+      "sha256": "6a39daf510facee401571f08d07066f8694ef1933f48921889ffac0237440908"
+    },
+    {
+      "source": "anim_0032.png",
+      "originalOpaqueBounds": [
+        222,
+        235,
+        782,
+        784
+      ],
+      "originalCenter": [
+        502.0,
+        509.5
+      ],
+      "sourceCrop": [
+        182,
+        190,
+        822,
+        830
+      ],
+      "repackedAlphaBounds": [
+        21,
+        24,
+        363,
+        359
+      ],
+      "sha256": "acbcdd8fea4f13b1233b9bea4693b77405e15555380fdddd9945542144195b81"
+    },
+    {
+      "source": "anim_0033.png",
+      "originalOpaqueBounds": [
+        222,
+        235,
+        782,
+        784
+      ],
+      "originalCenter": [
+        502.0,
+        509.5
+      ],
+      "sourceCrop": [
+        182,
+        190,
+        822,
+        830
+      ],
+      "repackedAlphaBounds": [
+        21,
+        24,
+        363,
+        359
+      ],
+      "sha256": "25ffe8c96c00af78d67b1bbb38c750d7cfa47e079e3e4c4c61780d519e5323ee"
+    },
+    {
+      "source": "anim_0034.png",
+      "originalOpaqueBounds": [
+        222,
+        235,
+        782,
+        784
+      ],
+      "originalCenter": [
+        502.0,
+        509.5
+      ],
+      "sourceCrop": [
+        182,
+        190,
+        822,
+        830
+      ],
+      "repackedAlphaBounds": [
+        21,
+        24,
+        363,
+        359
+      ],
+      "sha256": "91ddd6f33e979ddf62735611dd59482efb13fd2b0dd40b01707511604ec41ef4"
+    },
+    {
+      "source": "anim_0035.png",
+      "originalOpaqueBounds": [
+        222,
+        235,
+        782,
+        784
+      ],
+      "originalCenter": [
+        502.0,
+        509.5
+      ],
+      "sourceCrop": [
+        182,
+        190,
+        822,
+        830
+      ],
+      "repackedAlphaBounds": [
+        21,
+        24,
+        363,
+        359
+      ],
+      "sha256": "01b911bdf810876082b78a30476f73cf0595c10aa0d49a482a1d97c7fddd6746"
+    },
+    {
+      "source": "anim_0036.png",
+      "originalOpaqueBounds": [
+        222,
+        235,
+        782,
+        784
+      ],
+      "originalCenter": [
+        502.0,
+        509.5
+      ],
+      "sourceCrop": [
+        182,
+        190,
+        822,
+        830
+      ],
+      "repackedAlphaBounds": [
+        21,
+        24,
+        363,
+        359
+      ],
+      "sha256": "a20d2d7ba655738f7e51b4d9a0d3f10eb9e9c198e4c65738090764879b0d620a"
+    },
+    {
+      "source": "anim_0037.png",
+      "originalOpaqueBounds": [
+        222,
+        235,
+        782,
+        784
+      ],
+      "originalCenter": [
+        502.0,
+        509.5
+      ],
+      "sourceCrop": [
+        182,
+        190,
+        822,
+        830
+      ],
+      "repackedAlphaBounds": [
+        21,
+        24,
+        363,
+        359
+      ],
+      "sha256": "ae0eb65a6470780887f64f21e0237c5f973483703eb70cd007db4c0254a06f56"
+    },
+    {
+      "source": "anim_0038.png",
+      "originalOpaqueBounds": [
+        222,
+        235,
+        782,
+        784
+      ],
+      "originalCenter": [
+        502.0,
+        509.5
+      ],
+      "sourceCrop": [
+        182,
+        190,
+        822,
+        830
+      ],
+      "repackedAlphaBounds": [
+        21,
+        24,
+        363,
+        359
+      ],
+      "sha256": "1540ed3edeca5df28adef496bbdb4d542f57124327e1b2fa49b55def18f415a4"
+    },
+    {
+      "source": "anim_0039.png",
+      "originalOpaqueBounds": [
+        222,
+        235,
+        782,
+        784
+      ],
+      "originalCenter": [
+        502.0,
+        509.5
+      ],
+      "sourceCrop": [
+        182,
+        190,
+        822,
+        830
+      ],
+      "repackedAlphaBounds": [
+        21,
+        24,
+        363,
+        359
+      ],
+      "sha256": "d1876633d5717d9e561ee289c2689edb64d39ecce8a771a02b98740c4da63237"
+    }
+  ]
+}
